@@ -1,0 +1,37 @@
+"Songname","Artist","Album","Time","Id"
+# THIS FILE CONTAINS ALL SONGS IN iTunes
+# Aug 29 2014
+######################################################
+# 			All SONGS
+#######################################################
+# (1) This file can be very sensitive to errors.
+# (2) note, that there is no space after a comma
+# (3) all entries are strings except time which is a float
+# (4) we need to explicitly write code to ignore the commented lines
+#######################################################
+# The Magic Whip by Blur
+"Go Out","Blur","The Magic Whip",4.41,10
+"New World Towers","Blur","The Magic Whip",4.03,111
+"Ghost Ship","Blur","The Magic Whip",3.17,12
+#
+# I Had the Blues and I Shook Them Loose by  Bombay Bicycle Club
+"Always Like This","Bombay Bicycle Club","I Had the Blues and I Shook Them Loose",4.06,13
+#
+# One by One by Foo Fighters
+"Low","Foo Fighters","One by One",5.33,14
+"All My Life","Foo Fighters","One by One",3.28,15
+"Have It All","Foo Fighters","One by One",3.40,16
+#
+# The Joshua Tree by U2
+"Exit","U2","The Joshua Tree",3.19,17
+"One Tree Hill","U2","The Joshua Tree",3.14,18
+"With or Without You","U2","The Joshua Tree",2.96,19
+#
+# Recovery by Eminem                                       a
+"So Bad","Eminem","Recovery",3.06,20
+"Almost Famous","Eminem","Recovery",4.02,21
+#
+# American Idiot by Green Day
+"Homecoming","Green Day","American Idiot",3.06,22
+"Jesus of Suburbia","Green Day","American Idiot",3.06,23
+"Whatsername","Green Day","American Idiot",4.02,24
